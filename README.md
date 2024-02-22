@@ -1,3 +1,3 @@
 Python Practice on a small MNIST dataset.
 
-1. MNISTPCA: Principle Component Analysis
+1. PCA: Principle Component Analysis
